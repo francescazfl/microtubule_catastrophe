@@ -1,0 +1,9 @@
+os
+numpy
+scipy
+pandas
+bokeh>=1.4.0
+bebi103
+iqplot
+holoviews
+numba
